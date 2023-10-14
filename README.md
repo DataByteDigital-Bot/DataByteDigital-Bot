@@ -15,7 +15,7 @@
 ---
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DataByteDigital-Bot/&show_icons=true&locale=en" alt="Madhurya's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByteDigital-Bot/&layout=compact&theme=buefy&hide_border=true" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DataByteDigital-Bot&show_icons=true&locale=en" alt="DataByteDigital-Bot's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataByteDigital-Bot&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
 
 
