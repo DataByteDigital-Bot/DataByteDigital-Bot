@@ -8,7 +8,7 @@
 <div>
   <h4>⚡️ Current Github Streak</h4>
   <a href="https://github.com/DataByteDigital-Bot/">
-    <img src="https://github-readme-stats.databytedigital.com?user=DataByteDigital-Bot&theme=dark"/>
+    <img src="https://streak-stats.demolab.com/?user=DataByteDigital-Bot&theme=dark"/>
   </a>
 </div>
 
